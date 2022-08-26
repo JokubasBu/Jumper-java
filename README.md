@@ -2,16 +2,16 @@
 Jump King inspired game for first Object oriented programming course work.
 
 Features:
-  2d Physics
-  Ingame map editor
-  Map JSON file compatable with "Tiled" map editor
-  3 Levels
-  Animations
+ 1. 2d Physics
+ 2. Ingame map editor
+ 3. Map JSON file compatable with "Tiled" map editor
+ 4. 3 Levels
+ 5. Animations
   
 Controls:
-  Arrow keys - Movement (pressing down let's you do a powerjump!)
-  Z - Toggle map editor overlay
-  Mouse - To interact with map editor
+ 1. Arrow keys - Movement (pressing down let's you do a powerjump!)
+ 2. Z - Toggle map editor overlay
+ 3. Mouse - To interact with map editor
   
   (last block in the overlay is used as an eraser (removes block).
 
