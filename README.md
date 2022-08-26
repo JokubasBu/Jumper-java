@@ -14,5 +14,6 @@ Controls:
   Mouse - To interact with map editor
   
   (last block in the overlay is used as an eraser (removes block).
+
   Requires [Java Runtime Environment 17](https://adoptium.net/) 
   
